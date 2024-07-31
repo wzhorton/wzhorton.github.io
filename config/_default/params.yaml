@@ -5,7 +5,7 @@
 
 # Appearance
 appearance:
-  mode: system
+  mode: dark
   color: emerald
 
 # SEO
@@ -32,15 +32,16 @@ header:
     enable: true
     blox: "navbar"
     fixed_to_top: true
-    show_search: true
-    show_theme_chooser: true
+    show_search: false
+    show_theme_chooser: false
     logo:
-      text: "Your Name"
+      text: ''
+      filename: icon.png
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} W. Zachary Horton. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
