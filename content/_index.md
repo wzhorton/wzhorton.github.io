@@ -62,16 +62,37 @@ sections:
   #         size: cover
   #         position: center
   #         parallax: true
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
+  #     css_class: dark
+  #     background:
+  #       color: black #"#062f25"
+  #       image:
+  #         # Add your image background to `assets/media/`.
+  #         filename: liquid-cheese.svg
+  #         filters:
+  #           brightness: 0.3
+  #         size: cover
+  #         position: center
+  #         parallax: true
   - block: collection
+    id: talks
     content:
-      title: Recent Publications
-      text: ""
+      title: Recent & Upcoming Talks
       filters:
         folders:
-          - publication
-        exclude_featured: false
+          - event
     design:
-      view: citation
+      view: article-grid
+      columns: 1
       css_class: dark
       background:
         color: black #"#062f25"
@@ -83,16 +104,6 @@ sections:
           size: cover
           position: center
           parallax: true
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
   # - block: collection
   #   id: news
   #   content:

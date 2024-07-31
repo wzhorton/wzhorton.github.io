@@ -15,7 +15,7 @@ main:
   #   weight: 12
   # - name: News
   #   url: /#news
-    weight: 13
+  #  weight: 13
   - name: Experience
     url: experience/
     weight: 20
@@ -25,3 +25,6 @@ main:
   - name: Teaching
     url: teaching/
     weight: 40
+  - name: Papers
+    url: publication/
+    weight: 50
