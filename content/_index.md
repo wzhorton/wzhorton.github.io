@@ -83,27 +83,27 @@ sections:
   #         size: cover
   #         position: center
   #         parallax: true
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-      css_class: dark
-      background:
-        color: black #"#062f25"
-        image:
-          # Add your image background to `assets/media/`.
-          filename: liquid-cheese.svg
-          filters:
-            brightness: 0.3
-          size: cover
-          position: center
-          parallax: true
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     view: article-grid
+  #     columns: 1
+  #     css_class: dark
+  #     background:
+  #       color: black #"#062f25"
+  #       image:
+  #         # Add your image background to `assets/media/`.
+  #         filename: liquid-cheese.svg
+  #         filters:
+  #           brightness: 0.3
+  #         size: cover
+  #         position: center
+  #         parallax: true
   # - block: collection
   #   id: news
   #   content:
@@ -153,4 +153,39 @@ sections:
   #       # Card background color (CSS class)
   #       css_class: "bg-primary-700"
   #       css_style: ""
+  - block: resume-experience
+    content:
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'Jan 2006'
+      # Education or Experience section first?
+      is_education_first: true
+      css_class: dark
+      background:
+        color: black #"#062f25"
+        image:
+          # Add your image background to `assets/media/`.
+          filename: liquid-cheese.svg
+          filters:
+            brightness: 0.3
+          size: cover
+          position: center
+          parallax: true
+  # - block: resume-skills
+  #   content:
+  #     title: Skills & Hobbies
+  #     username: admin
+  #   design:
+  #     show_skill_percentage: false
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
+    design:
+      date_format: 'Jan 2006'
+  # - block: resume-languages
+  #   content:
+  #     title: Languages
+  #     username: admin
 ---

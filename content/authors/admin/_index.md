@@ -202,4 +202,4 @@ awards:
 
 ## Welcome!
 
-Thanks for visiting my personal site. You can use the button below to download my resume. Tabs at the top will take you to my extended CV and select research projects. Icons on the left link to my contact info. 
+Thanks for visiting my personal site. You can use the button below to download my resume. Tabs at the top will take you to my published papers and select research projects. Icons on the left link to my contact info. 
