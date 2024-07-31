@@ -41,7 +41,7 @@ profiles:
     url: https://www.linkedin.com/in/wzhorton
 
 interests:
-  - Financial Modeling and Quant Investing
+  - Quant Investing and Risk Modeling
   - Data Science and Machine Learning
   - Bayesian Statistical Methods
 
