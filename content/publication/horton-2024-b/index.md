@@ -1,7 +1,7 @@
 ---
 title: Modeling dependent sojourn distributions in Markov renewal processes
 authors:
-- W. Zachary Horton
+- admin
 - Athanasios Kottas
 date: -01-01
 publishDate: '2024-07-31T06:31:12.127543Z'
