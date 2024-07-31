@@ -4,7 +4,7 @@ authors:
 - Caroline Lisee
 - Hope C. Davis-Wilson
 - Alyssa Evans-Pickett
-- W. Zachary Horton
+- admin
 - J. Troy Blackburn
 - Jason R. Franz
 - Louise M. Thoma

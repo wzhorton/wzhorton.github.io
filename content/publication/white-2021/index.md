@@ -3,7 +3,7 @@ title: The utility of functional data analyses to reveal between-limbs asymmetri
   in those with a history of anterior cruciate ligament reconstruction
 authors:
 - McKenzie S. White
-- William Z. Horton
+- admin
 - Julie P. Burland
 - Matthew K. Seeley
 - Lindsey K. Lepley

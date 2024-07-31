@@ -40,17 +40,38 @@ sections:
         </p>
     design:
       columns: '1'
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
+  #     css_class: dark
+  #     background:
+  #       color: black #"#062f25"
+  #       image:
+  #         # Add your image background to `assets/media/`.
+  #         filename: liquid-cheese.svg
+  #         filters:
+  #           brightness: 0.3
+  #         size: cover
+  #         position: center
+  #         parallax: true
   - block: collection
-    id: papers
     content:
-      title: Featured Publications
+      title: Recent Publications
+      text: ""
       filters:
         folders:
           - publication
-        featured_only: true
+        exclude_featured: false
     design:
-      view: article-grid
-      columns: 2
+      view: citation
       css_class: dark
       background:
         color: black #"#062f25"
@@ -62,16 +83,6 @@ sections:
           size: cover
           position: center
           parallax: true
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
   - block: collection
     id: talks
     content:

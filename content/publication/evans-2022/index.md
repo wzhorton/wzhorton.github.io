@@ -4,7 +4,7 @@ title: Worse tibiofemoral cartilage composition is associated with insufficient 
 authors:
 - Alyssa Evans-Pickett
 - Caroline Lisee
-- W. Zachary Horton
+- admin
 - David Lalush
 - Daniel Nissman
 - J. Troy Blackburn

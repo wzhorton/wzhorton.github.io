@@ -9,7 +9,7 @@ authors:
 - Alyssa Evans-Pickett
 - Jason R. Franz
 - Matthew S. Harkey
-- W. Zachary Horton
+- admin
 - Caroline Lisee
 - Brittney Luc-Harkey
 - Amanda E. Munsch

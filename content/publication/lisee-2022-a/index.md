@@ -4,7 +4,7 @@ title: Differences in gait biomechanics between adolescents and young adults wit
 authors:
 - Caroline Michele Lisee
 - Elizabeth Bjornsen
-- W. Zachary Horton
+- admin
 - Hope Davis-Wilson
 - J. Troy Blackburn
 - Matthew B. Fisher

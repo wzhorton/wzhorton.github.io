@@ -5,7 +5,7 @@ authors:
 - Elizabeth Bjornsen
 - Hope Davis-Wilson
 - Alyssa Evans-Picket
-- W. Zachary Horton
+- admin 
 - Caroline Lisee
 - Amanda E. Munsch
 - Daniel Nissman
