@@ -188,4 +188,25 @@ sections:
   #   content:
   #     title: Languages
   #     username: admin
+  - block: collection
+    content:
+      title: Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
+      css_class: dark
+      background:
+        color: black #"#062f25"
+        image:
+          # Add your image background to `assets/media/`.
+          filename: stacked-peaks.svg
+          filters:
+            brightness: 0.4
+          size: cover
+          position: center
+          parallax: true
 ---
