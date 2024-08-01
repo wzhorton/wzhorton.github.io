@@ -2,10 +2,10 @@
 title: "Bayesian Nonparametric Curve Clustering"
 date: 2020-06-01
 type: docs
+toc: false
+backlinks: false
 tags:
-    - Bayesian Nonparametrics
-    - Functional Data Analysis
-    - Clustering/Classification
+    - Paper
 ---
 
 Functional data is really interesting, to me anyway. So similar to vector data, yet it exists in a very different space. I completed this project for a Bayesian nonparametrics course during my PhD. The contents are pretty technical, but it is a good example of the type of work I do in my research, i.e., connecting various statistical methods to solve a problem. I like this project specifically because it blends Bayesian nonparametrics, a primary theme in my PhD research, with functional data analysis, a central topic in my master's research.
