@@ -34,10 +34,10 @@ sections:
     content:
       title: 'About Me'
       subtitle: ''
-      text: |-
-        <p style="font-size: 16px;">
-        I'm a 6th year PhD candidate at UC Santa Cruz studying statistics. My research centers on Bayesian nonparametric methods and renewal process modeling with an emphasis on earthquake forecasting. I also work part-time as a quant researcher for Double River Investments doing data science predictive modeling. I graduate in Dec 2024 and am interested in exploring career opportunities in quantitative finance, risk modeling, or data science.
-        </p>
+      # text: |-
+      #   <p style="font-size: 16px;">
+      #   I'm a 6th year PhD candidate at UC Santa Cruz studying statistics. My research centers on Bayesian nonparametric methods and renewal process modeling with an emphasis on earthquake forecasting. I also work part-time as a quant researcher for Double River Investments doing data science predictive modeling. I graduate in Dec 2024 and am interested in exploring career opportunities in quantitative finance, risk modeling, or data science.
+      #   </p>
     design:
       columns: '1'
   # - block: collection

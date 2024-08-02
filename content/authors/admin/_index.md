@@ -200,9 +200,7 @@ awards:
       - Competed against 15 other finalists from across the college
 ---
 
-## Welcome!
+## Delivering Impactful Insights Through Thoughtful, Data-Driven Analysis
 
-Thanks for visiting my personal site. You can use the button below to download my resume. 
-Scroll down further for more information about my research and work experience.
-A collection of projects highlighting my skills and interests is available on the Projects tab above.
-The icons on the left link to my contact info.
+Yeah, the tagline is a little dorky, but it comes with the territory. Thanks for visiting my site! I'm a PhD candidate studying statistics and a part-time quant researcher. My official research focuses on Bayesian nonparametrics and renewal process models, but I'm also interested in risk modeling, quantitative finance, and data science more broadly. I am on track to graduate Dec. 2024 and am looking forward to exploring career opportunities in these areas. 
+
