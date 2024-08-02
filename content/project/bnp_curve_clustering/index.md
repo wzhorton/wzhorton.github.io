@@ -13,5 +13,5 @@ Functional data is really interesting, to me anyway. So similar to vector data, 
 
 To provide a more technical summary, this project has two purposes: to review a Bayesian nonparametric method called *density regression* and then combine it with a dependence structure to build a clustering model for functional curve data. Density regression is used to estimate nonlinear relationships between multiple variables, and it is specifically helpful in this project to model curve data. The dependence structure, called a *nested Dirichlet process*, is used to cluster force plate curves into groups. In the end, the model is capable of clustering functional curve data based on both shape and level, without the need to specify the number of clusters beforehand.
 </div>
-
+<br>
 <embed src="/projects/bnp_curve_clustering.pdf" type="application/pdf" width="100%" height="900px" />
