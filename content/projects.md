@@ -13,6 +13,7 @@ sections:
     content:
       title: Select Personal and Research Projects
       text: ''
+      count: 0
       filters:
         folders:
           - project
