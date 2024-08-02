@@ -95,6 +95,12 @@ work:
      # - Consult with researchers regarding customization or adjustments
      # - Write approachable model summaries for publications in non-stats journals
      # - Co-authored on several papers in exercise science journals
+  - position: Actuarial Consulting Intern
+    company_name: Aon Hewitt
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-05-01
+    date_end: 2017-08-01
   - position: Course Instructor / Teaching Assistant
     company_name: UCSC/BYU Statistics Departments
     company_url: ''
