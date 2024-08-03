@@ -6,7 +6,7 @@ title: W. Zachary Horton
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: William Zachary
+first_name: Zach
 last_name: Horton
 
 # Status emoji
@@ -95,8 +95,8 @@ work:
      # - Consult with researchers regarding customization or adjustments
      # - Write approachable model summaries for publications in non-stats journals
      # - Co-authored on several papers in exercise science journals
-  - position: Actuarial Consulting Intern
-    company_name: Aon Hewitt
+  - position: Actuarial Consulting Intern - Health and Benefits
+    company_name: Aon
     company_url: ''
     company_logo: ''
     date_start: 2017-05-01
