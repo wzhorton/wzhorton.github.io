@@ -208,5 +208,5 @@ awards:
 
 ## Delivering Impactful Insights Through Thoughtful, Data-Driven Analysis
 
-Yeah, the tagline is a little dorky, but it comes with the territory. Thanks for visiting my site! I'm a PhD candidate studying statistics and a part-time quant researcher. My academic research focuses on Bayesian nonparametrics and renewal processes, but I'm also interested in risk modeling, quantitative finance, and data science more broadly. I am on track to graduate Dec. 2024 and am looking forward to exploring career opportunities in these areas. 
+Yeah, the tagline is a little dorky, but it comes with the territory. Thanks for visiting my site! I'm a soon-to-graduate PhD candidate studying statistics and a part-time quant researcher. My academic research focuses on Bayesian nonparametrics and renewal processes, but I'm also interested in risk modeling, quantitative finance, and data science more broadly. So, if you need someone capable of delivering impactful insights through thoughtful, data-driven analysis *- corny shudders -* let's chat!
 
