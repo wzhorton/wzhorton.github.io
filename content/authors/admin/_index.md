@@ -195,7 +195,7 @@ awards:
     summary: |2-
       - Dual first-year fellowships awarded to attract top students to the program (received 2019)
       - Summer fellowship awarded to support research during the summer (received 2022/23)
-  - title: Runner-Up Student Presentation
+  - title: Honorable Mention Student Presentation
     date: '2019-06-01'
     awarder: Actuarial Research Conference 2019
   - title: 2nd Place, 3 Minute Thesis Competition
